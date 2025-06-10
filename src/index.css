@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Space Grotesk, sans-serif;
+}
+
+@font-face{
+  font-family: "Space Grotesk";
+  src:local("SpaceGrotesk-VariableFont_wght"),
+  url('./assets/fonts/SpaceGrotesk/SpaceGrotesk-VariableFont_wght.ttf')
+}
